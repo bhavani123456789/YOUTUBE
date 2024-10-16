@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://bhavani123456789.github.io/Youtube_Project",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
